@@ -1,0 +1,27 @@
+{
+  "name": "access_key_blockchain_verification_module_gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiHyeon-Hong/Access_key_blockchain_verification_module_gateway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiHyeon-Hong/Access_key_blockchain_verification_module_gateway/issues"
+  },
+  "homepage": "https://github.com/KiHyeon-Hong/Access_key_blockchain_verification_module_gateway#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "request": "^2.88.2",
+    "ip": "^1.1.5",
+    "public-ip": "^5.0.0",
+    "sha256": "^0.2.0"
+  }
+}
